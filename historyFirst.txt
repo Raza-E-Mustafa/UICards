@@ -1,0 +1,27 @@
+    1  git--version
+    2  git -- version
+    3  git --version
+    4  git config --user.name Raza Jujara
+    5  cd ..
+    6  git config --global user.name "Raza jujara"
+    7  git --version
+    8  git config --global user.name "raza jujara"
+    9  git config user.name
+   10  git config --global user.email "razajujara950@gmail.com"
+   11  git config user.email
+   12  mkdir raza
+   13  cd raza
+   14  touch index.html
+   15  touch style.css
+   16  cd ..
+   17  touch xyz.txt
+   18  git init
+   19  git add xyz.txt
+   20  git status
+   21  git commit -m"it's my first project"
+   22  git commit -m "it's my first project"
+   23  git log
+   24  git log > commitFirst.txt
+   25  history
+   26  history > > historyFirst.txt
+   27  history >> historyFirst.txt
